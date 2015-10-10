@@ -141,7 +141,8 @@
 
             function getShortenedUrl(url)
             {
-                $('.form, .result').hide();
+                $('.form').hide();
+                $('.alert-container').html('');
                 $('.preloader').show();
 
                 $.ajax({
