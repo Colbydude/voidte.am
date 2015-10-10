@@ -5,7 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <title>VOIDTE.AM | Link Not Found</title>
+        <title>VOIDTE.AM | Missing Link</title>
+        <meta name="author" content="VoidTeam Studios">
+        <link href="http://voidte.am" rel="canonical">
 
         <link href="https://fonts.googleapis.com/css?family=Lato:400" rel="stylesheet" type="text/css">
 
