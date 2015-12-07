@@ -9,7 +9,7 @@
         <meta name="description" content="VoidTeam branded URL shortener.">
         <meta name="keywords" content="VoidTeam, Network, Studios, URL, Shortener, Link, Shorten">
         <meta name="author" content="VoidTeam Studios">
-        <link href="http://voidte.am" rel="canonical">
+        <link href="https://voidte.am" rel="canonical">
 
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-k2/8zcNbxVIh5mnQ52A0r3a6jAgMGxFJFE2707UxGCk= sha512-ZV9KawG2Legkwp3nAlxLIVFudTauWuBpC10uEafMHYL0Sarrz5A7G79kXh5+5+woxQ5HM559XX2UZjMJ36Wplg==" crossorigin="anonymous">
@@ -20,7 +20,7 @@
                 height: 100%;
             }
             body {
-                background: url('http://voidteam.net/img/pattern-bg.png') #1a4674 repeat;
+                background: url('//voidteam.net/img/pattern-bg.png') #1a4674 repeat;
                 color: white;
                 display: table;
                 font-family: 'Lato';

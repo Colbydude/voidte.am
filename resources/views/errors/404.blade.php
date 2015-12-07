@@ -7,7 +7,7 @@
 
         <title>VOIDTE.AM | Missing Link</title>
         <meta name="author" content="VoidTeam Studios">
-        <link href="http://voidte.am" rel="canonical">
+        <link href="https://voidte.am" rel="canonical">
 
         <link href="https://fonts.googleapis.com/css?family=Lato:400" rel="stylesheet" type="text/css">
 
@@ -16,7 +16,7 @@
                 height: 100%;
             }
             body {
-                background: url('http://voidteam.net/img/pattern-bg.png') #1a4674 repeat;
+                background: url('//voidteam.net/img/pattern-bg.png') #1a4674 repeat;
                 color: white;
                 display: table;
                 font-family: 'Lato';
